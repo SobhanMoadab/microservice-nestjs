@@ -1,0 +1,3 @@
+[submodule "clean-auth"]
+	path = clean-auth
+	url = https://github.com/SobhanMoadab/clean-auth-nestjs.git
